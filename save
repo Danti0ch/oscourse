@@ -1,0 +1,5 @@
++ as kern/bootstrap.S
++ as kern/entry.S
++ cc kern/init.c
++ cc kern/console.c
++ cc kern/dwarf.c
